@@ -1,3 +1,2 @@
-Test Git
-Added new file
-tee
+This is test file
+Git repo
